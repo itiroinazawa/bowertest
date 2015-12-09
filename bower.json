@@ -1,0 +1,30 @@
+{
+  "name": "zombie-striker",
+  "homepage": "https://github.com/itiroinazawa/BowerTest",
+  "authors": [
+    "Itiro Inazawa http://japascript.com.br"
+  ],
+  "description": "app to strike zombies with bower",
+  "main": "assets/scripts/main.js",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "zombie",
+    "striker"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+"dependencies": {
+        "jquery": "~2.0.3"
+    }
+}
