@@ -1,3 +1,3 @@
 # bowertest
 
-This is a bower test application.
+Essa é uma aplicação para testar o funcionamente do Bower.
